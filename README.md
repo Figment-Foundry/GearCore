@@ -7,7 +7,7 @@
 
 **One skill to rule them all.**
 
-> 🌐 [Project website](https://blinkvoid.github.io/GearCore/)
+> 🌐 [Project website](https://figment-foundry.github.io/GearCore/)
 
 GearCore is a unified skill and MCP hub that aggregates all your AI tools behind a single, progressively-disclosed interface. Instead of copying the same MCP server configs into Claude, Codex, Kimi, and every new project, you register everything **once** in GearCore and expose it as one native skill that every AI CLI tool discovers automatically.
 
@@ -354,7 +354,7 @@ See [SKILL_SCHEMA.md](SKILL_SCHEMA.md) for the full specification.
 
 ```bash
 # Clone
-git clone https://github.com/BlinkVoid/GearCore.git
+git clone https://github.com/Figment-Foundry/GearCore.git
 cd GearCore
 
 # Install in editable mode
